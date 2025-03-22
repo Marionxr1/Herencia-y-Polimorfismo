@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXtKtbQc7qU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meriv\\OneDrive\\Documentos\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meriv\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512",
+    "C:\\Users\\meriv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\meriv\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\meriv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\meriv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
